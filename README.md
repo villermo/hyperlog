@@ -11,5 +11,6 @@ Blog de la clase de [Git y Github](http://platzi.com/cursos/git-github/ "Git y G
 * Las multiples personalidades de Freddy
 * Creado con la ayuda de Platzi
 * Incluye imagenes
+* Disponible para todos los niveles
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.
